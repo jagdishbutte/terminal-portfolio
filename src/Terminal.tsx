@@ -41,6 +41,13 @@ const Terminal = () => {
       git: "https://github.com/jagdishbutte/BookStory",
     },
     {
+      name: "Shoppy",
+      tech: "React, Freestore API",
+      desc: "E-commerce Website",
+      link: "https://shoppy-rose-six.vercel.app/",
+      git: "https://github.com/jagdishbutte/E-commerce",
+    },
+    {
       name: "MusicMonk",
       tech: "JavaScript",
       desc: "Music streaming application",
