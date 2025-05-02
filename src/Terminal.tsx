@@ -24,7 +24,7 @@ const Terminal = () => {
   const [showCursor, setShowCursor] = useState(true);
 
   const cvLink =
-    "https://drive.google.com/file/d/1u7WnByM1psK5W-2ne3Lp2IE4MW0lSoSK/view?usp=sharing";
+    "https://drive.google.com/file/d/1K8gLSIe7v3TECc_vvXt0CMnZBRrcRts4/view?usp=sharing";
   const projects: Project[] = [
     {
       name: "Aidventure",
